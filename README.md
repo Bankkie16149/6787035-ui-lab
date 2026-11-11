@@ -1,6 +1,6 @@
 # Automated UI Testing (ITDS362) - ui-lab
 
-คลังเก็บงานการทดสอบ UI อัตโนมัติ (Automated UI Testing) สำหรับวิชา **ITDS362 Software Quality Assurance and Testing** โดยพัฒนาชุดทดสอบบนเว็บฟอร์มทดสอบของ Selenium และระบบ QuickPizza (https://quickpizza.grafana.com)
+คลังเก็บงานการทดสอบ UI อัตโนมัติ (Automated UI Testing) โดยพัฒนาชุดทดสอบบนเว็บฟอร์มทดสอบของ Selenium และระบบ QuickPizza (https://quickpizza.grafana.com)
 
 เครื่องมือที่เลือกใช้ทำในแล็บนี้มี 2 ส่วน:
 - **Part 2**: Selenium WebDriver with Java and JUnit 5
