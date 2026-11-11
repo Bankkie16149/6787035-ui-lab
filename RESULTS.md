@@ -23,8 +23,8 @@ Tool parts that I chose: Part 2 (Selenium WebDriver in Java) and Part 4 (Cypress
 
 ## Part 2: Selenium WebDriver in Java
 - Step 2.4, the failure line for the wrong title: `[ERROR]   FirstTest.webFormOpens:20 expected: <Web Form> but was: <Web form>`
-- Step 2.15, QP01Test run 1, result and time:
-- Step 2.15, QP01Test run 2, result and time:
+- Step 2.15, QP01Test run 1, result and time: Pass, 9.844 s (Tests run: 1, Failures: 0)
+- Step 2.15, QP01Test run 2, result and time: Pass, 12.35 s (Tests run: 1, Failures: 0)
 - Step 2.20, full run 1, time and number of tests:
 - Step 2.20, full run 2, time and number of tests:
 
