@@ -29,13 +29,13 @@ Tool parts that I chose: Part 2 (Selenium WebDriver in Java) and Part 4 (Cypress
 - Step 2.20, full run 2, time and number of tests: 28.829 s, 5 tests, 0 failures
 
 ## Part 4: Cypress
-- node --version, npm --version and npx cypress version:
-- Step 4.3, failure message for the wrong title:
-- Step 4.6, tool and calories in the answer of POST /api/pizza:
-- Step 4.7, the line of the admin list that shows your pizza:
-- Step 4.8, run 1, result, duration and pizza name:
-- Step 4.8, run 2, result, duration and pizza name:
-- Step 4.9 (optional), browser and result:
+- node --version, npm --version and npx cypress version: v24.19.0, 11.17.0, Cypress package version: 16.2.1
+- Step 4.3, failure message for the wrong title: `Timed out retrying after 10000ms` / `+ expected - actual` / `-'Web form'` / `+'Web Form'`
+- Step 4.6, tool and calories in the answer of POST /api/pizza: Scissors, 450 calories per slice (run 2; status 200, request maxCaloriesPerSlice = 600, the page showed the same tool and calories)
+- Step 4.7, the line of the admin list that shows your pizza: `Lab Pizza 20261111-084934 (tool=Scissors, ingredients_number=7)` (run 2)
+- Step 4.8, run 1, result, duration and pizza name: Pass, 2 of 2 tests, 00:17 (pizza-scenario 00:12, web-form 00:05), Lab Pizza 20261111-084859
+- Step 4.8, run 2, result, duration and pizza name: Pass, 2 of 2 tests, 00:14 (pizza-scenario 00:11, web-form 00:02), Lab Pizza 20261111-084934
+- Step 4.9 (optional), browser and result: not done
 
 ## Part B
 1. 
